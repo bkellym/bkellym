@@ -1,6 +1,8 @@
 # <div align="center"> Olá, eu sou o Keller o/ </div>
 <p> <b> Pronomes: </b> Ele/Dele </p>
 
+<div align="center"> <img src="https://github.com/bkellym/bkellym/blob/main/octocat-1679412027360.png" alt= "Meu Octocat" height="250px"> </div
+
 Sou apaixonado por tecnologia e criar soluções digitais desde minha infância e comecei na área de desenvolvimento em 2014, trabalhando efetivamente desde 2018.
 
 <p> 🔭 Atualmente tenho trabalhado com essas tecnologias ... </p>
